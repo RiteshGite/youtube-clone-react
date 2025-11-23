@@ -2,6 +2,8 @@
 
 A YouTube clone built with React, Redux Toolkit, and YouTube Data API v3.
 
+**Live Link** - https://youtube-clone-zeta-lemon.vercel.app/
+
 ## ✨ Features
 
 - Browse trending videos
